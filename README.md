@@ -7,7 +7,7 @@ Welcome to the official repository of the TQNet paper: "Temporal Query Network f
 ## Updates
 🚩 **News** (2025.05): TQNet has been accepted to ICML 2025 and the paper and code is currently available.
 
-**Please note that** [**SparseTSF**](https://github.com/lss-1138/SparseTSF), [**CycleNet**](https://github.com/ACAT-SCUT/CycleNet), and [**TQNet**](https://github.com/ACAT-SCUT/TQNet) represent our continued exploration of leveraging periodicity for long-term time series forecasting (LTSF). 
+**Please note that** [**SparseTSF**](https://github.com/lss-1138/SparseTSF), [**CycleNet**](https://github.com/ACAT-SCUT/CycleNet), and [**TQNet**](https://github.com/ACAT-SCUT/TQNet) represent our continued exploration of **leveraging periodicity** for long-term time series forecasting (LTSF). 
 The differences and connections among them are as follows:
 
 |                            Model                             |        Use of Periodicity         |            Technique             |                   Effect                   |      Efficiency      |                   Strengths                   |                      Limitation                       |
