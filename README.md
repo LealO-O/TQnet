@@ -1,6 +1,6 @@
 # TQNet
 
-Welcome to the official repository of the TQNet paper: "Temporal Query Network for Efficient Multivariate Time Series Forecasting". 
+Welcome to the official repository of the TQNet paper: "[Temporal Query Network for Efficient Multivariate Time Series Forecasting](https://arxiv.org/pdf/2505.12917)". 
 
 
 
