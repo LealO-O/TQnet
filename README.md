@@ -111,7 +111,12 @@ sh run_ablation.sh
 ## Citation
 If you find this repo useful, please cite our paper.
 ```
-
+@inproceedings{lin2025TQNet,
+  title={Temporal Query Network for Efficient Multivariate Time Series Forecasting}, 
+  author={Lin, Shengsheng and Chen, Haojun and Wu, Haijie and Qiu, Chunyun and Lin, Weiwei},
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
